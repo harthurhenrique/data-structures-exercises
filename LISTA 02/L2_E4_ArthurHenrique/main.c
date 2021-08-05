@@ -1,5 +1,13 @@
 #include <stdio.h>
 
+/*
+Faça funções que recebam um vetor de inteiros e retorne:
+(a) quantos valores pares ele possui;
+(b) retorne o maior valor;
+(c) retorna a média aritmética dos elementos do vetor;
+(d) impressão inversa do vetor.
+*/
+
 int preencher(int com);
 int maior_valor(int *V, int com);
 float media(int *V, int com);
