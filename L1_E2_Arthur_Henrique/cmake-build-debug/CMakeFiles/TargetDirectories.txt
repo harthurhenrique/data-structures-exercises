@@ -1,3 +1,0 @@
-C:/Users/Arthur/OneDrive - ufu.br/PERIODO 2 2021-2/ED1/LISTA 1/L1_E2_Arthur_Henrique/cmake-build-debug/CMakeFiles/L1_E2_Arthur_Henrique.dir
-C:/Users/Arthur/OneDrive - ufu.br/PERIODO 2 2021-2/ED1/LISTA 1/L1_E2_Arthur_Henrique/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Arthur/OneDrive - ufu.br/PERIODO 2 2021-2/ED1/LISTA 1/L1_E2_Arthur_Henrique/cmake-build-debug/CMakeFiles/rebuild_cache.dir
