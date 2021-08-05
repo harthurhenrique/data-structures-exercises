@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/*
+Faça um programa que faça operações simples de números complexos:
+• Crie e leia dois números complexos z e w, compostos por parte real e parte imaginária.
+• Apresente a soma, subtração e produto entre z e w, nessa ordem, bem como o módulo de ambos.
+*/
+
 struct Numcomplex{
     float real;
     float imag;
