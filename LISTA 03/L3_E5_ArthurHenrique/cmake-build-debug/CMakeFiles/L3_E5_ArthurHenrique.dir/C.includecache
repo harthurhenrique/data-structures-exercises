@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Arthur/OneDrive - ufu.br/PERIODO 2 2021-2/ED1/LISTA 3/L3_E5_ArthurHenrique/main.c
+stdio.h
+-
+

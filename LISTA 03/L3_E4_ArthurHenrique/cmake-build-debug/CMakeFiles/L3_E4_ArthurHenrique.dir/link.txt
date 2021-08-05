@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\L3_E4_ArthurHenrique.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\L3_E4_ArthurHenrique.dir/objects.a @CMakeFiles\L3_E4_ArthurHenrique.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\L3_E4_ArthurHenrique.dir/objects.a -Wl,--no-whole-archive -o L3_E4_ArthurHenrique.exe -Wl,--out-implib,libL3_E4_ArthurHenrique.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\L3_E4_ArthurHenrique.dir\linklibs.rsp
